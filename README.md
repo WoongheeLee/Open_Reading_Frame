@@ -1,1 +1,2 @@
-#펄을 사용한 open reading frame 문제 풀이 구현
+- 생물정보학의 open reading frame 문제 풀이를 perl로 구현
+- 정규식 사용
